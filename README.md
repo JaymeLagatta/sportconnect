@@ -1,3 +1,11 @@
+# SportConnect - Conecta praticantes e professores
+
+Front end em React, back end em Python com FastAPI
+
+# Rodou apenas em localhost 3000 para front e 5000 para back.
+
+Enterprise Challenge - 05/05/2025
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
